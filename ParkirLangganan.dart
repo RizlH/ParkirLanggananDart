@@ -32,10 +32,10 @@ double hitungTotalBayar(int jamParkir, bool member, bool tiketHilang) {
 }
 
 void main() {
-  print(hitungTotalBayar(1, false, false));
-  print(hitungTotalBayar(3, false, false));
-  print(hitungTotalBayar(6, false, false));
-  print(hitungTotalBayar(5, true, false));
-  print(hitungTotalBayar(2, false, true));
-  print(hitungTotalBayar(4, true, true));
+  print(hitungTotalBayar(1,false,false));
+  print(hitungTotalBayar(3,false,false));
+  print(hitungTotalBayar(6,false,false));
+  print(hitungTotalBayar(5,true,false));
+  print(hitungTotalBayar(2,false,true));
+  print(hitungTotalBayar(4,true,true));
 }
