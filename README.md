@@ -75,8 +75,6 @@ Dalam sistem parkir pada umumnya, ada 3 hal yang biasanya pasti ada, yaitu :
 
 ## Flowchart
 
-Keterangan : `[ ]` = proses, `< >` = keputusan.
-
 **a. Alur Utama**
 ```
                  [Start]
@@ -126,8 +124,6 @@ Keterangan : `[ ]` = proses, `< >` = keputusan.
                               ▼
                   [Kembalikan Tarif]
 ```
-
-Untuk menggambarkan bagaimana sistem ini bekerja, dapat dilihat pada diagram alur (flowchart) di atas.
 
 ## Pseudocode
 ```
